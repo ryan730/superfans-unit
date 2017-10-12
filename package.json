@@ -1,6 +1,6 @@
 {
   "name": "superfans-unit",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "超粉单元测试",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,10 @@
   },
   "author": "ryan.zhu",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan730/superfans-unit.git"
+  },
   "custom": {
     "karma-phantomjs-launcher": "^1.0.2",
     "karma-phantomjs-shim": "^1.4.0"
