@@ -1,6 +1,6 @@
 ###基本安装
 
-npm i superfans-unit
+    npm i superfans-unit
 
 
 ###指标
@@ -30,9 +30,8 @@ https://gotwarlost.github.io/istanbul/public/apidocs/index.html
 
 
 ###发布
-npm login --registry http://registry.npmjs.org
-#npm publish --tag 0.1.0
-npm publish --registry http://registry.npmjs.org
+- npm login --registry http://registry.npmjs.org
+- npm publish --registry http://registry.npmjs.org
 
 
 #Jasmine中文指南
