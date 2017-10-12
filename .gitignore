@@ -8,3 +8,5 @@ coverage
 .scannerwork/.sonar_lock
 
 .scannerwork/class-mapping.csv
+
+sonar/sonar-scanner/jre
