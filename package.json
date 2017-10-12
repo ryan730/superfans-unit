@@ -22,7 +22,8 @@
     "karma-spec-reporter": "0.0.31",
     "karma-webpack": "^2.0.2",
     "minimist": "^1.2.0",
-    "pkgfiles": "^2.3.2"
+    "pkgfiles": "^2.3.2",
+    "webpack-merge": "^4.1.0"
   },
   "author": "ryan.zhu",
   "license": "ISC",
