@@ -1,4 +1,10 @@
 .DS_Store
 node_modules
-sonar
+coverage
 
+
+.scannerwork/.sonar_lock
+
+.scannerwork/.sonar_lock
+
+.scannerwork/class-mapping.csv
